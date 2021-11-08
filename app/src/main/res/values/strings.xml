@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">YRJAtarea6JsonToDatos</string>
+    <string name="animacion">animation</string>
+    <string name="txt1">Conversión de Json a Datos</string>
+    <string name="name">Nombre</string>
+    <string name="color">Color favorito</string>
+    <string name="comida">Comida favorita</string>
+    <string name="numero">Número favorito</string>
+    <string name="jsontext">Ingrese la cadena JSON</string>
+    <string name="boton">Convertir</string>
+</resources>
